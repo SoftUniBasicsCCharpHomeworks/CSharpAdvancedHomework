@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\bin\Debug\04DifferenceBtwnDates.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\bin\Debug\04DifferenceBtwnDates.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\bin\Debug\04DifferenceBtwnDates.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\obj\Debug\04DifferenceBtwnDates.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\obj\Debug\04DifferenceBtwnDates.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\04DifferenceBtwnDates\obj\Debug\04DifferenceBtwnDates.pdb

@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\bin\Debug\13AverageLoadTime.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\bin\Debug\13AverageLoadTime.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\bin\Debug\13AverageLoadTime.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\obj\Debug\13AverageLoadTime.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\obj\Debug\13AverageLoadTime.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\13AverageLoadTime\obj\Debug\13AverageLoadTime.pdb

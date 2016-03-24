@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\bin\Debug\14LongestWordInText.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\obj\Debug\14LongestWordInText.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\bin\Debug\14LongestWordInText.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\bin\Debug\14LongestWordInText.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\obj\Debug\14LongestWordInText.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\14LongestWordInText\obj\Debug\14LongestWordInText.pdb

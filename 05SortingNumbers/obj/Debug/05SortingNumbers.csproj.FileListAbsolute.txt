@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\bin\Debug\05SortingNumbers.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\bin\Debug\05SortingNumbers.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\bin\Debug\05SortingNumbers.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\obj\Debug\05SortingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\obj\Debug\05SortingNumbers.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\05SortingNumbers\obj\Debug\05SortingNumbers.pdb

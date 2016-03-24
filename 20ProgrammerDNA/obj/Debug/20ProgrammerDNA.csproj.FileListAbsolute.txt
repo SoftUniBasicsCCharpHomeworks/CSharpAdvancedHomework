@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\bin\Debug\20ProgrammerDNA.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\20ProgrammerDNA\obj\Debug\20ProgrammerDNA.pdb

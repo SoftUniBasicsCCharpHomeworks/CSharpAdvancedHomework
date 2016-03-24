@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\bin\Debug\16CountingWordInText.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\bin\Debug\16CountingWordInText.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\bin\Debug\16CountingWordInText.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\obj\Debug\16CountingWordInText.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\obj\Debug\16CountingWordInText.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\16CountingWordInText\obj\Debug\16CountingWordInText.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\bin\Debug\09RemoveNames.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\bin\Debug\09RemoveNames.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\bin\Debug\09RemoveNames.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\obj\Debug\09RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\obj\Debug\09RemoveNames.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\09RemoveNames\obj\Debug\09RemoveNames.pdb

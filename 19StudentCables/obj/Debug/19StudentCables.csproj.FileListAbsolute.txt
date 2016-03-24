@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\bin\Debug\19StudentCables.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\bin\Debug\19StudentCables.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\bin\Debug\19StudentCables.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\obj\Debug\19StudentCables.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\obj\Debug\19StudentCables.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\19StudentCables\obj\Debug\19StudentCables.pdb

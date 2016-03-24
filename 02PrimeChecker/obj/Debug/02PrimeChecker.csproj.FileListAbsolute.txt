@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\02PrimeChecker\bin\Debug\02PrimeChecker.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\02PrimeChecker\bin\Debug\02PrimeChecker.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\02PrimeChecker\bin\Debug\02PrimeChecker.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\02PrimeChecker\obj\Debug\02PrimeChecker.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\02PrimeChecker\obj\Debug\02PrimeChecker.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\bin\Debug\22BitFlipper.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\bin\Debug\22BitFlipper.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\bin\Debug\22BitFlipper.pdb
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\obj\Debug\22BitFlipper.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\obj\Debug\22BitFlipper.exe
+c:\users\pc\documents\visual studio 2015\Projects\CSharpAdvancedHomework\22BitFlipper\obj\Debug\22BitFlipper.pdb

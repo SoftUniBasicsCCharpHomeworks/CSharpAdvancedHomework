@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\bin\Debug\15ExtractURLs.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\bin\Debug\15ExtractURLs.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\bin\Debug\15ExtractURLs.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\obj\Debug\15ExtractURLs.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\obj\Debug\15ExtractURLs.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\CSharpAdvancedHomework\15ExtractURLs\obj\Debug\15ExtractURLs.pdb
